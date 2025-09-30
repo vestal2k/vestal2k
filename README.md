@@ -21,6 +21,16 @@
 
 ---
 
+## 🎬 Favorite Directors
+<p align="center">
+  <img src="https://img.shields.io/badge/PTA-phantomthread-critical?style=for-the-badge&logoColor=white&color=8b0000" alt="Paul Thomas Anderson">
+  <img src="https://img.shields.io/badge/David%20Lynch-mulhollanddrive-1e90ff?style=for-the-badge&logoColor=white&color=483d8b" alt="David Lynch">
+  <img src="https://img.shields.io/badge/Terrence%20Malick-thinredline-forestgreen?style=for-the-badge&logoColor=white&color=228b22" alt="Terrence Malick">
+  <img src="https://img.shields.io/badge/Andrew%20Dominik-chopper-696969?style=for-the-badge&logoColor=white&color=2f4f4f" alt="Andrew Dominik">
+</p>
+
+---
+
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,nodejs,php,laravel,python,vercel" />
@@ -30,10 +40,9 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vestal2k&theme=material-palenight&show_icons=true&hide_border=true" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vestal2k&theme=material-palenight&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vestal2k&theme=material-palenight&hide_border=true" alt="Streak Stats">
 </p>
 
 ---
 
-<p align="center">🖤</p>
+<p align="center">🖤 project developed by <a href="https://github.com/vestal2k">vestal</a></p>
