@@ -23,10 +23,18 @@
 
 ## 🎬 Favorite Directors
 <p align="center">
-  <img src="https://img.shields.io/badge/PTA-phantomthread-critical?style=for-the-badge&logoColor=white&color=8b0000" alt="Paul Thomas Anderson">
-  <img src="https://img.shields.io/badge/David%20Lynch-mulhollanddrive-1e90ff?style=for-the-badge&logoColor=white&color=483d8b" alt="David Lynch">
-  <img src="https://img.shields.io/badge/Terrence%20Malick-thinredline-forestgreen?style=for-the-badge&logoColor=white&color=228b22" alt="Terrence Malick">
-  <img src="https://img.shields.io/badge/Andrew%20Dominik-chopper-696969?style=for-the-badge&logoColor=white&color=2f4f4f" alt="Andrew Dominik">
+  <a href="https://letterboxd.com/film/magnolia/">
+    <img src="https://img.shields.io/badge/Paul%20Thomas%20Anderson-Magnolia-8b0000?style=for-the-badge&logoColor=white" alt="Paul Thomas Anderson - Magnolia">
+  </a>
+  <a href="https://letterboxd.com/film/lost-highway/">
+    <img src="https://img.shields.io/badge/David%20Lynch-Lost%20Highway-483d8b?style=for-the-badge&logoColor=white" alt="David Lynch - Lost Highway">
+  </a>
+  <a href="https://letterboxd.com/film/blonde-2022/">
+    <img src="https://img.shields.io/badge/Andrew%20Dominik-Blonde-696969?style=for-the-badge&logoColor=white" alt="Andrew Dominik - Blonde">
+  </a>
+  <a href="https://letterboxd.com/film/the-thin-red-line/">
+    <img src="https://img.shields.io/badge/Terrence%20Malick-The%20Thin%20Red%20Line-228b22?style=for-the-badge&logoColor=white" alt="Terrence Malick - The Thin Red Line">
+  </a>
 </p>
 
 ---
