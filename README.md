@@ -48,7 +48,9 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vestal2k&theme=material-palenight&hide_border=true" alt="Streak Stats">
+  <a href="https://github.com/vestal2k">
+    <img src="https://streak-badge.vercel.app/api/streak?user=vestal2k" alt="GitHub Streak" width="720" />
+  </a>
 </p>
 
 ---
