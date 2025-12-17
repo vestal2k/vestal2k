@@ -48,7 +48,9 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qyrn&theme=material-palenight&hide_border=true" alt="Streak Stats">
+  <a href="https://github.com/qyrn">
+    <img src="https://streak-badge.vercel.app/api/streak?user=qyrn" alt="GitHub Streak" width="720" />
+  </a>
 </p>
 
 ---
