@@ -1,4 +1,4 @@
-<h1 align="center">🎞️ vestal</h1>
+<h1 align="center">🎞️ qyrn</h1>
 <h3 align="center">cinephile & pentest learner</h3>
 
 ---
@@ -48,7 +48,7 @@
 
 ## 📊 Stats
 <p align="center">
-  <a href="https://github.com/vestal2k">
+  <a href="https://github.com/qyrn">
     <img src="https://streak-badge.vercel.app/api/streak?user=vestal2k" alt="GitHub Streak" width="720" />
   </a>
 </p>
