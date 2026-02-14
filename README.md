@@ -1,4 +1,4 @@
-<h1 align="center">🎞️ vestal</h1>
+<h1 align="center">🎞️ qyrn</h1>
 <h3 align="center">cinephile & pentest learner</h3>
 
 ---
