@@ -55,4 +55,4 @@
 
 ---
 
-<p align="center">🖤 project developed by <a href="https://github.com/qyrn">vestal</a></p>
+<p align="center">🖤 project developed by <a href="https://github.com/qyrn">qyrn</a></p>
