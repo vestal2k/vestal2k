@@ -1,58 +1,30 @@
-<h1 align="center">🎞️ qyrn</h1>
-<h3 align="center">cinephile & pentest learner</h3>
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/2c0c4b8e-514e-46dc-af51-6e3a09ba18e9" />
 
----
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <img src="movie.gif" alt="Film mood" style="width:100%;max-width:960px;aspect-ratio:1920/800;height:auto;border-radius:12px;" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://letterboxd.com/deaduntilnight/">
+        <img src="https://streak-badge.vercel.app/api/letterboxd?user=deaduntilnight" alt="Latest film" style="width:100%; max-width:400px;" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://tryhackme.com/p/qyrn">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/qyrn.png" alt="TryHackMe" style="width:100%; max-width:400px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+&nbsp;&nbsp;&nbsp;
 
-## 🎥 Latest Reviews
-<p align="center">
-  <a href="https://letterboxd.com/deaduntilnight/">
-    <img width="49.5%" src="https://letterboxd-badge.vercel.app/deaduntilnight/svg" alt="Latest film reviewed">
-  </a>
-  <a href="https://letterboxd.com/deaduntilnight/">
-    <img width="49.5%" src="https://letterboxd-badge.vercel.app/deaduntilnight/svg?index=1" alt="Second latest review">
-  </a>
-</p>
-
----
-
-## 🎬 Favorite Directors
-<p align="center">
-  <a href="https://letterboxd.com/film/magnolia/">
-    <img src="https://img.shields.io/badge/Paul%20Thomas%20Anderson-Magnolia-8b0000?style=for-the-badge&logoColor=white" alt="Paul Thomas Anderson - Magnolia">
-  </a>
-  <a href="https://letterboxd.com/film/lost-highway/">
-    <img src="https://img.shields.io/badge/David%20Lynch-Lost%20Highway-483d8b?style=for-the-badge&logoColor=white" alt="David Lynch - Lost Highway">
-  </a>
-  <a href="https://letterboxd.com/film/blonde-2022/">
-    <img src="https://img.shields.io/badge/Andrew%20Dominik-Blonde-696969?style=for-the-badge&logoColor=white" alt="Andrew Dominik - Blonde">
-  </a>
-  <a href="https://letterboxd.com/film/the-thin-red-line/">
-    <img src="https://img.shields.io/badge/Terrence%20Malick-The%20Thin%20Red%20Line-228b22?style=for-the-badge&logoColor=white" alt="Terrence Malick - The Thin Red Line">
-  </a>
-</p>
-
----
-
-## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,nodejs,php,laravel,python,vercel" />
-</p>
-
----
-
-## 📊 Stats
-<p align="center">
-  <a href="https://github.com/qyrn">
-    <img src="https://streak-badge.vercel.app/api/streak?user=qyrn" alt="GitHub Streak" width="720" />
-  </a>
-</p>
-
----
-
-<p align="center">🖤 project developed by <a href="https://github.com/qyrn">qyrn</a></p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://qyrn.dev">
+        <img width="100%" alt="qyrn.dev" src="BANNIERE_QYRN_URL_ICI" />
+      </a>
+    </td>
+  </tr>
+</table>
