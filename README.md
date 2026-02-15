@@ -15,13 +15,8 @@
       </a>
     </td>
   </tr>
-</table>
-
-&nbsp;&nbsp;&nbsp;
-
-<table>
   <tr>
-    <td align="center">
+    <td colspan="2" align="center">
       <a href="https://qyrn.dev" target="_blank">
         <img width="100%" alt="qyrn.dev" src="https://github.com/user-attachments/assets/ec044c73-9636-4824-9012-162a3ffbce73" />
       </a>
