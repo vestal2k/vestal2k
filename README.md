@@ -5,12 +5,12 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <a href="https://letterboxd.com/deaduntilnight/">
+      <a href="https://letterboxd.com/deaduntilnight/" target="_blank">
         <img src="https://streak-badge.vercel.app/api/letterboxd?user=deaduntilnight" alt="Latest film" />
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://tryhackme.com/p/qyrn">
+      <a href="https://tryhackme.com/p/qyrn" target="_blank">
         <img src="https://tryhackme-badges.s3.amazonaws.com/qyrn.png" alt="TryHackMe" />
       </a>
     </td>
@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://qyrn.dev">
+      <a href="https://qyrn.dev" target="_blank">
         <img width="100%" alt="qyrn.dev" src="BANNIERE_QYRN_URL_ICI" />
       </a>
     </td>
