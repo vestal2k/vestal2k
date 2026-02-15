@@ -49,7 +49,7 @@
 ## 📊 Stats
 <p align="center">
   <a href="https://github.com/qyrn">
-    <img src="https://streak-badge.vercel.app/api/streak?user=vestal2k" alt="GitHub Streak" width="720" />
+    <img src="https://streak-badge.vercel.app/api/streak?user=qyrn" alt="GitHub Streak" width="720" />
   </a>
 </p>
 
