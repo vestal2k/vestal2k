@@ -17,4 +17,6 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "qyrn"
+          user_public_id: "5412800"
+          use_static_image: "false"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
