@@ -10,8 +10,8 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://tryhackme.com/p/qyrn" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/qyrn.png" alt="TryHackMe" />
+      <a href="https://github.com/qyrn" target="_blank">
+        <img src="https://streak-badge.vercel.app/api/streak?user=qyrn" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
