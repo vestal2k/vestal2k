@@ -5,8 +5,8 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <a href="https://letterboxd.com/deaduntilnight/" target="_blank">
-        <img src="https://streak-badge.vercel.app/api/letterboxd?user=deaduntilnight" alt="Latest film" />
+      <a href="https://letterboxd.com/camembertdodu/" target="_blank">
+        <img src="https://streak-badge.vercel.app/api/letterboxd?user=camembertdodu" alt="Latest film" />
       </a>
     </td>
     <td align="center" valign="middle">
