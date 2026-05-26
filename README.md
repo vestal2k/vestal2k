@@ -6,7 +6,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://letterboxd.com/qyrn/" target="_blank">
-        <img src="https://streak-badge.vercel.app/api/letterboxd?user=camembertdodu" alt="Latest film" />
+        <img src="https://streak-badge.vercel.app/api/letterboxd?user=qyrn" alt="Latest film" />
       </a>
     </td>
     <td align="center" valign="middle">
